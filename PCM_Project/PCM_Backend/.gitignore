@@ -1,0 +1,29 @@
+# Build results
+[Dd]ebug/
+[Dd]ebugPublic/
+[Rr]elease/
+[Rr]eleases/
+x64/
+x86/
+*.dll
+*.exe
+*.pdb
+bin/
+obj/
+
+# Visual Studio
+.vs/
+.vscode/
+*.sln
+*.csproj.user
+
+# Dependencies
+packages/
+.NuGet/
+
+# Environment files
+.env
+.env.local
+
+# Logs
+*.log

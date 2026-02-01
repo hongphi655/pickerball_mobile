@@ -1,0 +1,29 @@
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.2.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "PCM_Backend", "PCM_Backend", "{BB269BF8-14DE-8E45-9F02-8DC335E50BD8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PCM.API", "PCM_Backend\PCM.API.csproj", "{83700EA0-CC74-BCD7-C544-1E37ADDA09BE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{83700EA0-CC74-BCD7-C544-1E37ADDA09BE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{83700EA0-CC74-BCD7-C544-1E37ADDA09BE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{83700EA0-CC74-BCD7-C544-1E37ADDA09BE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{83700EA0-CC74-BCD7-C544-1E37ADDA09BE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{83700EA0-CC74-BCD7-C544-1E37ADDA09BE} = {BB269BF8-14DE-8E45-9F02-8DC335E50BD8}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {853BAE29-A38D-4FFB-BC2F-445C2F5A96F3}
+	EndGlobalSection
+EndGlobal
